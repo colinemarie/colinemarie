@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🤓  Strategist turned **Full Stack Developer**, I recently graduated from [Le Wagon's Ruby on Rails Bootcamp](https://github.com/lewagon).
+- 🦠 I've participated to the creation of app [Covidliste](https://github.com/hostolab/covidliste), matching people who who wish to be vaccinated with health vaccination centers.
+- 🔭  I’m currently working on an app helping you to go through pregnancy.
+- 👩🏻‍🏫  I am also teaching at Le Wagon
+- 🐙 ... and just know that I am fascinated by jellyfishes 💕
+
 <!--
 **colinemarie/colinemarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
