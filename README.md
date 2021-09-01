@@ -4,7 +4,7 @@
 - 🦠 I've participated in the creation of [Covidliste](https://github.com/hostolab/covidliste), matching people who wish to be vaccinated with health vaccination centers.
 - 🔭  I’m currently working on an RoR app helping you to go through pregnancy.
 - 👩🏻‍🏫  I am also teaching at Le Wagon.
-- 🐙 ... and just know that I am fascinated by jellyfishes 💕
+- 🐙 ... and just know that I am fascinated by jellyfishes and addicted to crosswords 💕
 
 <!--
 **colinemarie/colinemarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
