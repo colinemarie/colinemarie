@@ -2,8 +2,8 @@
 
 - 🤓  Strategist turned **Full Stack Developer**, I recently graduated from [Le Wagon's Ruby on Rails Bootcamp](https://github.com/lewagon).
 - 🦠 I've participated in the creation of [Covidliste](https://github.com/hostolab/covidliste), matching people who wish to be vaccinated with health vaccination centers.
-- 🔭  I’m currently working on an RoR app helping you to go through pregnancy.
-- 👩🏻‍🏫  I am also teaching at Le Wagon.
+- 💚  I’m currently working at [Pennylane](https://github.com/pennylane-hq).
+- 👩🏻‍🏫  I'm also teaching at [Le Wagon](https://github.com/lewagon).
 - 🐙 ... and just know that I am fascinated by jellyfishes and addicted to crosswords 💕
 
 <!--
