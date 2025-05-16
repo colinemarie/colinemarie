@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤓  Strategist turned **Full Stack Developer**, I recently graduated from [Le Wagon's Ruby on Rails Bootcamp](https://github.com/lewagon).
+- 🤓  Strategist turned **Full Stack Developer**, after graduating from [Le Wagon's Ruby on Rails Bootcamp](https://github.com/lewagon).
 - 🦠 I've participated in the creation of [Covidliste](https://github.com/hostolab/covidliste), matching people who wish to be vaccinated with health vaccination centers.
 - 💚  I’m currently working at [Pennylane](https://github.com/pennylane-hq).
 - 👩🏻‍🏫  I'm also teaching at [Le Wagon](https://github.com/lewagon).
